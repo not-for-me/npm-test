@@ -1,10 +1,10 @@
 {
-  "name": "npm-test",
+  "name": "wj-npm-test",
   "version": "1.0.0",
   "description": "test package for npm",
   "main": "index.js",
   "bin": {
-    "welcome" : "./bin/welcome.js"
+    "welcome" : "./bin/welcome"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/not-for-me/npm-test.git"
   },
-  "author": "",
+  "author": "Woojin Joe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/not-for-me/npm-test/issues"
