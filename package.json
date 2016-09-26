@@ -1,0 +1,22 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "test package for npm",
+  "main": "index.js",
+  "bin": {
+    "welcome" : "./bin/welcome.js"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-for-me/npm-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/not-for-me/npm-test/issues"
+  },
+  "homepage": "https://github.com/not-for-me/npm-test#readme"
+}
